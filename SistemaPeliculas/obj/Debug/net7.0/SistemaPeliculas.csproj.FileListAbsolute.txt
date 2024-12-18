@@ -1,0 +1,162 @@
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\appsettings.Development.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\appsettings.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.staticwebassets.runtime.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.exe
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.deps.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.runtimeconfig.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.pdb
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Azure.Core.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Azure.Identity.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\DinkToPdf.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Humanizer.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.CodeDom.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.csproj.AssemblyReference.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.AssemblyInfoInputs.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.AssemblyInfo.cs
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.csproj.CoreCompileInputs.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.MvcApplicationPartsAssemblyInfo.cs
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.MvcApplicationPartsAssemblyInfo.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.RazorAssemblyInfo.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.RazorAssemblyInfo.cs
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.build.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.development.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.SistemaPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemaPeliculas.props
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemaPeliculas.props
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SistemaPeliculas.props
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\bundle\SistemaPeliculas.styles.css
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\projectbundle\SistemaPeliculas.bundle.scp.css
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaP.40920F42.Up2Date
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\refint\SistemaPeliculas.dll
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.pdb
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.genruntimeconfig.cache
+D:\SISTEMA_PELICULAS\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\ref\SistemaPeliculas.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.csproj.AssemblyReference.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.AssemblyInfoInputs.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.AssemblyInfo.cs
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.MvcApplicationPartsAssemblyInfo.cs
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.MvcApplicationPartsAssemblyInfo.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.RazorAssemblyInfo.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.RazorAssemblyInfo.cs
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\appsettings.Development.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\appsettings.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.staticwebassets.runtime.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.exe
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.deps.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.runtimeconfig.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\SistemaPeliculas.pdb
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Azure.Core.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Azure.Identity.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\DinkToPdf.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Humanizer.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\itextsharp.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.CodeDom.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Xceed.Document.NET.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Xceed.PDF.NET.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\Xceed.Words.NET.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.build.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.development.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.SistemaPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemaPeliculas.props
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemaPeliculas.props
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SistemaPeliculas.props
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\bundle\SistemaPeliculas.styles.css
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\scopedcss\projectbundle\SistemaPeliculas.bundle.scp.css
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaP.40920F42.Up2Date
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\refint\SistemaPeliculas.dll
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.pdb
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\SistemaPeliculas.genruntimeconfig.cache
+D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\obj\Debug\net7.0\ref\SistemaPeliculas.dll

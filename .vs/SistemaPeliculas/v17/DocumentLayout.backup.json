@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|d:\\documentos jose\\3ciclo-jose\\programacion orientada objetos i\\evaluciones\\sistema_peliculas-t3\\sistemapeliculas\\sistemapeliculas\\views\\cliente\\proximamente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|solutionrelative:sistemapeliculas\\views\\cliente\\proximamente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|d:\\documentos jose\\3ciclo-jose\\programacion orientada objetos i\\evaluciones\\sistema_peliculas-t3\\sistemapeliculas\\sistemapeliculas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|solutionrelative:sistemapeliculas\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|d:\\documentos jose\\3ciclo-jose\\programacion orientada objetos i\\evaluciones\\sistema_peliculas-t3\\sistemapeliculas\\sistemapeliculas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|solutionrelative:sistemapeliculas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|d:\\documentos jose\\3ciclo-jose\\programacion orientada objetos i\\evaluciones\\sistema_peliculas-t3\\sistemapeliculas\\sistemapeliculas\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|solutionrelative:sistemapeliculas\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|d:\\documentos jose\\3ciclo-jose\\programacion orientada objetos i\\evaluciones\\sistema_peliculas-t3\\sistemapeliculas\\sistemapeliculas\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A625B04C-0312-4EAE-B126-FA218DB70C97}|SistemaPeliculas\\SistemaPeliculas.csproj|solutionrelative:sistemapeliculas\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 168,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "SistemaPeliculas\\Models\\Pelicula.cs",
+              "ToolTip": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Models\\Pelicula.cs",
+              "RelativeToolTip": "SistemaPeliculas\\Models\\Pelicula.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:22:26.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SistemaPeliculas\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "SistemaPeliculas\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAP4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:10:37.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SistemaPeliculas\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SistemaPeliculas\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAswCYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:13:31.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proximamente.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Views\\Cliente\\Proximamente.cshtml",
+              "RelativeDocumentMoniker": "SistemaPeliculas\\Views\\Cliente\\Proximamente.cshtml",
+              "ToolTip": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Views\\Cliente\\Proximamente.cshtml",
+              "RelativeToolTip": "SistemaPeliculas\\Views\\Cliente\\Proximamente.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:43:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaPeliculas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOCUMENTOS JOSE\\3CICLO-JOSE\\PROGRAMACION ORIENTADA OBJETOS I\\Evaluciones\\SISTEMA_PELICULAS-T3\\SistemaPeliculas\\SistemaPeliculas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaPeliculas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYCAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:19:43.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

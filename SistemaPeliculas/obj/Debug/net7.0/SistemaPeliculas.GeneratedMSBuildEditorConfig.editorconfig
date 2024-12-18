@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaPeliculas
+build_property.RootNamespace = SistemaPeliculas
+build_property.ProjectDir = D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DOCUMENTOS JOSE\3CICLO-JOSE\PROGRAMACION ORIENTADA OBJETOS I\Evaluciones\SISTEMA_PELICULAS-T3\SistemaPeliculas\SistemaPeliculas
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Actores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWN0b3Jlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Confirmacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29uZmlybWFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/CrearActor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXJBY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/CrearGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXJHZW5lcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/CrearPelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXJQZWxpY3VsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/CrearRestriccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXJSZXN0cmljY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/CrearUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXJVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EditarActor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyQWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EditarGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyR2VuZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EditarPelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyUGVsaWN1bGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EditarRestriccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyUmVzdHJpY2Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EditarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EliminarActor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJBY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EliminarGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJHZW5lcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EliminarPelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJQZWxpY3VsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EliminarRestriccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJSZXN0cmljY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EliminarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/EnviarNotificacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW52aWFyTm90aWZpY2FjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Generos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2VuZXJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Peliculas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVsaWN1bGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Reservas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzZXJ2YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Restricciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzdHJpY2Npb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Admin/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Carrito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYXJyaXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Cartelera.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYXJ0ZWxlcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/DetallePelicula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhbGxlUGVsaWN1bGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Pagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQYWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Peliculas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQZWxpY3VsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Preventa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQcmV2ZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Cliente/Proximamente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxQcm94aW1hbWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DOCUMENTOS JOSE/3CICLO-JOSE/PROGRAMACION ORIENTADA OBJETOS I/Evaluciones/SISTEMA_PELICULAS-T3/SistemaPeliculas/SistemaPeliculas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t0q37quzul
